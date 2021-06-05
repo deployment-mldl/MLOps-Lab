@@ -4,6 +4,7 @@
 
 # MLOps on Azure
 This repository contains sample code, which is used for a [MLOps](https://en.wikipedia.org/wiki/MLOps) Workshop.
+https://www.youtube.com/watch?v=YAqTt4DYIbw&t=126s
 
 In this workshop various cloud services will be used, e.g. [Azure ML Services](https://azure.microsoft.com/en-us/services/machine-learning-service/) and [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/).
 
